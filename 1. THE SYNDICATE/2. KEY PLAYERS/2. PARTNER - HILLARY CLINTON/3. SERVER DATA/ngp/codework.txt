@@ -1,0 +1,41 @@
+Public Sub CheckIDs()
+
+    MsgBox "Begin"
+    
+    Set cnt = CreateObject("ADODB.Connection")
+    Set rst = CreateObject("ADODB.RecordSet")
+    
+    connstring = "Driver={SQL Native Client};Server=d3cngpdb;Database=NGPClientDCCC;Trusted_Connection=yes;"
+    
+    cnt.Open connstring
+    
+    xlasnumrows = ActiveSheet.UsedRange.Rows.Count
+    xlasnumcols = ActiveSheet.UsedRange.Columns.Count
+    
+    RowIndex = 2
+    
+    While RowIndex < xlasnumrows + 1
+    
+        sqltext = "SELECT SUM(Contrib.mAmount) AS Expr1 FROM Contrib INNER JOIN Main ON Contrib.iContactID = Main.iContactID WHERE     (Main.iDeleted = 0) AND (Main.iContactID = " & Trim(ActiveSheet.Rows(RowIndex).Cells(1, 9).Value) & ") AND (Contrib.iDeleted = 0) AND (Contrib.dtDate > CONVERT(DATETIME, '2005-01-01 00:00:00', 102)) AND (Contrib.dtDate < CONVERT(DATETIME, '2007-01-01 00:00:00', 102))"
+        
+        rst.Open sqltext, cnt
+    
+        If (rst.BOF) And (rst.EOF) Then
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 1).Value = 0
+        Else
+            rst.MoveFirst
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 1).Value = rst.Fields(0).Value
+        End If
+        
+        rst.Close
+        
+        RowIndex = RowIndex + 1
+        
+    
+    Wend
+    
+    cnt.Close
+
+    MsgBox ("End")
+
+End Sub

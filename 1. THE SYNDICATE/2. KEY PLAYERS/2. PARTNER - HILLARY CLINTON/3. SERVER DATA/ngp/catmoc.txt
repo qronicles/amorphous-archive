@@ -1,0 +1,236 @@
+4368334	CAT-MOC	Edolphus	Towns	Hon. Edolphus Towns	4368334
+3992404	CAT-MOC	Barney	Frank	Hon. Barney Frank	3992404
+3992440	CAT-MOC	Nick	Rahall	Hon. Nick Rahall	3992440
+3995850	CAT-MOC	Jim	Cooper	Hon. Jim Cooper	3995850
+4098599	CAT-MOC	George	Miller	Hon. George Miller	4098599
+4102558	CAT-MOC	Martin	Meehan	Hon. Martin Meehan	4102558
+4107848	CAT-MOC	John	Tierney	Hon. John Tierney	4107848
+4120025	CAT-MOC	Ron	Kind	Hon. Ron Kind	4120025
+4277868	CAT-MOC	Mike	Thompson	Hon. Mike Thompson	4277868
+4279594	CAT-MOC	Tammy	Baldwin	Hon. Tammy Baldwin	4279594
+4279888	CAT-MOC	Neil	Abercrombie	Hon. Neil Abercrombie	4279888
+4279909	CAT-MOC	Tom	Allen	Hon. Tom Allen	4279909
+4279960	CAT-MOC	Xavier	Becerra	Hon. Xavier Becerra	4279960
+4279980	CAT-MOC	Howard	Berman	Hon. Howard Berman	4279980
+4280001	CAT-MOC	Sanford	Bishop	Hon. Sanford Bishop	4280001
+4280083	CAT-MOC	Corrine	Brown	Hon. Corrine Brown	4280083
+4280257	CAT-MOC	Danny	Davis	Hon. Danny Davis	4280257
+4280268	CAT-MOC	Peter	DeFazio	Hon. Peter DeFazio	4280268
+4280279	CAT-MOC	Diana	DeGette	Hon. Diana DeGette	4280279
+4280330	CAT-MOC	John	Dingell	Hon. John Dingell	4280330
+4280371	CAT-MOC	Chet	Edwards	Hon. Chet Edwards	4280371
+4280392	CAT-MOC	Anna	Eshoo	Hon. Anna Eshoo	4280392
+4280403	CAT-MOC	Bob	Etheridge	Hon. Bob Etheridge	4280403
+4280454	CAT-MOC	Robert	Filner	Hon. Robert Filner	4280454
+4280554	CAT-MOC	Bart	Gordon	Hon. Bart Gordon	4280554
+4280565	CAT-MOC	Gene	Green	Hon. Gene Green	4280565
+4280605	CAT-MOC	Jane	Harman	Hon. Jane Harman	4280605
+4280616	CAT-MOC	Alcee	Hastings	Hon. Alcee Hastings	4280616
+4280686	CAT-MOC	Steny	Hoyer	Hon. Steny Hoyer	4280686
+4280760	CAT-MOC	David	Wu	Hon. David Wu	4280760
+4281099	CAT-MOC	Paul	Kanjorski	Hon. Paul Kanjorski	4281099
+4281120	CAT-MOC	Patrick	Kennedy	Hon. Patrick Kennedy	4281120
+4281131	CAT-MOC	Dale	Kildee	Hon. Dale Kildee	4281131
+4281204	CAT-MOC	Tom	Lantos	Hon. Tom Lantos	4281204
+4281245	CAT-MOC	Zoe	Lofgren	Hon. Zoe Lofgren	4281245
+4281256	CAT-MOC	Nita	Lowey	Hon. Nita Lowey	4281256
+4281288	CAT-MOC	Carolyn	Maloney	Hon. Carolyn Maloney	4281288
+4281369	CAT-MOC	James	McGovern	Hon. James McGovern	4281369
+4281656	CAT-MOC	Charles	Gonzalez	Hon. Charles A. Gonzalez	4281656
+4281707	CAT-MOC	John	Larson	Hon. John Larson	4281707
+4281766	CAT-MOC	Greg	Meeks	Hon. Greg Meeks	4281766
+4281835	CAT-MOC	Jan	Schakowsky	Hon. Jan Schakowsky	4281835
+4282085	CAT-MOC	Lloyd	Doggett	Hon. Lloyd Doggett	4282085
+4282254	CAT-MOC	William	Jefferson	Hon. William Jefferson	4282254
+4282305	CAT-MOC	Barbara	Lee	Hon. Barbara Lee	4282305
+4282315	CAT-MOC	Edward	Markey	Hon. Edward Markey	4282315
+4282364	CAT-MOC	Michael	McNulty	Hon. Michael McNulty	4282364
+4282436	CAT-MOC	Alan	Mollohan	Hon. Alan Mollohan	4282436
+4282465	CAT-MOC	John	Murtha	Hon. John Murtha	4282465
+4282497	CAT-MOC	James	Oberstar	Hon. James Oberstar	4282497
+4282508	CAT-MOC	John	Olver	Hon. John Olver	4282508
+4282549	CAT-MOC	Nancy	Pelosi	Hon. Nancy Pelosi	4282549
+4282590	CAT-MOC	Earl	Pomeroy	Hon. Earl Pomeroy	4282590
+4282601	CAT-MOC	David	Price	Hon. David Price	4282601
+4282621	CAT-MOC	Charles	Rangel	Hon. Charles Rangel	4282621
+4282760	CAT-MOC	Jose	Serrano	Hon. Jose Serrano	4282760
+4282791	CAT-MOC	Ike	Skelton	Hon. Ike Skelton	4282791
+4282943	CAT-MOC	John	Tanner	Hon. John Tanner	4282943
+4282954	CAT-MOC	Ellen	Tauscher	Hon. Ellen Tauscher	4282954
+4282985	CAT-MOC	Bennie	Thompson	Hon. Bennie Thompson	4282985
+4283116	CAT-MOC	Peter	Visclosky	Hon. Peter Visclosky	4283116
+4283226	CAT-MOC	Lynn	Woolsey	Hon. Lynn Woolsey	4283226
+4283345	CAT-MOC	David	Obey	Hon. David Obey	4283345
+4283376	CAT-MOC	Ed	Pastor	Hon. Ed Pastor	4283376
+4283435	CAT-MOC	Brad	Sherman	Hon. Brad Sherman	4283435
+4283447	CAT-MOC	Vic	Snyder	Hon. Vic Snyder	4283447
+4283458	CAT-MOC	John	Spratt	Hon. John Spratt, Jr.	4283458
+4301111	CAT-MOC	Rush	Holt	Hon. Rush Holt	4301111
+4313796	CAT-MOC	John	Lewis	Hon. John H Lewis	4313796
+4323006	CAT-MOC	Lucille	Roybal-Allard	Hon. Lucille Roybal-Allard	4323006
+4323867	CAT-MOC	Lois	Capps	Hon. Lois Capps	4323867
+4327632	CAT-MOC	Michael	Capuano	Hon. Michael Capuano	4327632
+4332927	CAT-MOC	Joseph	Crowley	Hon. Joseph Crowley	4332927
+4368816	CAT-MOC	Rick	Larsen	Hon. Rick Larsen	4368816
+4388246	CAT-MOC	Bill	Pascrell	Hon. Bill Pascrell	4388246
+4394093	CAT-MOC	Mike	Ross	Hon. Mike Ross	4394093
+4467919	CAT-MOC	Joe	Baca	Hon. Joe Baca	4467919
+4601280	CAT-MOC	Mike	Honda	Hon. Mike Honda	4601280
+4612412	CAT-MOC	Hilda	Solis	Hon. Hilda Solis	4612412
+3995246	CAT-MOC	Jim	McDermott	Hon. Jim McDermott	3995246
+4005815	CAT-MOC	Kendrick	Meek	Hon. Kendrick Meek	4005815
+4011387	CAT-MOC	Diane	Watson	Hon. Diane E. Watson	4011387
+4012717	CAT-MOC	Rahm	Emanuel	Hon. Rahm Emanuel	4012717
+4013067	CAT-MOC	David	Scott	Hon. David Scott	4013067
+4014147	CAT-MOC	Tim	Ryan	Hon. Tim Ryan	4014147
+4017257	CAT-MOC	Eleanor Holmes	Norton	Hon. Eleanor Holmes Norton	4017257
+4017285	CAT-MOC	Sheila Jackson	Lee	Hon. Sheila Jackson Lee	4017285
+4250082	CAT-MOC	John	Barrow	Hon. John Barrow	4250082
+4375464	CAT-MOC	Adam	Smith	Hon. Adam Smith	4375464
+4375476	CAT-MOC	Betty	McCollum	Hon. Betty McCollum	4375476
+4375483	CAT-MOC	Mark	Udall	Hon. Mark Udall	4375483
+4375498	CAT-MOC	Tim	Bishop	Hon. Tim Bishop	4375498
+4375509	CAT-MOC	Chris	Van Hollen	Hon. Chris Van Hollen, Jr.	4375509
+4375510	CAT-MOC	Donald	Payne	Hon. Donald Payne	4375510
+4400294	CAT-MOC	Doris	Matsui	Hon. Doris O. Matsui	4400294
+4406861	CAT-MOC	Adam	Schiff	Hon. Adam Schiff	4406861
+4406936	CAT-MOC	Ben	Chandler	Hon. Ben Chandler	4406936
+4424047	CAT-MOC	Bart	Stupak	Hon. Bart Stupak	4424047
+4425624	CAT-MOC	Rick	Boucher	Hon. Rick Boucher	4425624
+4425626	CAT-MOC	Robert	Andrews	Hon. Robert E. Andrews	4425626
+4425627	CAT-MOC	Rosa	DeLauro	Hon. Rosa DeLauro	4425627
+4425629	CAT-MOC	Melvin	Watt	Hon. Melvin Watt	4425629
+4425630	CAT-MOC	Albert	Wynn	Hon. Albert Wynn	4425630
+4425635	CAT-MOC	Henry	Waxman	Hon. Henry Waxman	4425635
+4425665	CAT-MOC	William	Delahunt	Hon. William Delahunt	4425665
+4425671	CAT-MOC	Jim	Matheson	Hon. Jim Matheson	4425671
+4425715	CAT-MOC	Charles	Melancon	Hon. Charles Melancon	4425715
+4432072	CAT-MOC	Stephen	Lynch	Hon. Stephen F. Lynch	4432072
+4432083	CAT-MOC	Dennis	Cardoza	Hon. Dennis Cardoza	4432083
+4432098	CAT-MOC	Michael	Michaud	Hon. Michael Michaud	4432098
+4432152	CAT-MOC	Carolyn	Kilpatrick	Hon. Carolyn Kilpatrick	4432152
+4432173	CAT-MOC	John	Conyers	Hon. John Conyers, Jr.	4432173
+4453043	CAT-MOC	Linda	Sanchez	Hon. Linda Sanchez	4453043
+4486935	CAT-MOC	Sam	Farr	Hon. Sam Farr	4486935
+4486937	CAT-MOC	Steve	Israel	Hon. Steve J. Israel	4486937
+4493451	CAT-MOC	Carolyn	McCarthy	Hon. Carolyn McCarthy	4493451
+4493488	CAT-MOC	Mike	Doyle	Hon. Mike Doyle	4493488
+4493813	CAT-MOC	Jim	Langevin	Hon. Jim Langevin	4493813
+4493883	CAT-MOC	Marion	Berry	Hon. Marion Berry	4493883
+4493907	CAT-MOC	Earl	Blumenauer	Hon. Earl Blumenauer	4493907
+4512243	CAT-MOC	Shelley	Berkley	Hon. Shelley Berkley	4512243
+4539951	CAT-MOC	Susan	Davis	Hon. Susan Davis	4539951
+4543475	CAT-MOC	Nydia	Velazquez	Hon. Nydia M. Velazquez	4543475
+4554790	CAT-MOC	C.A. Dutch	Ruppersberger	Hon. C.A. Dutch Ruppersberger	4554790
+4554908	CAT-MOC	Juanita	Millender-McDonald	Hon. Juanita Millender-McDonald	4554908
+4555297	CAT-MOC	Maxine	Waters	Hon. Maxine Waters	4555297
+4584269	CAT-MOC	John	Salazar	Hon. John Salazar	4584269
+4584327	CAT-MOC	Tom	Udall	Hon. Tom Udall	4584327
+4584328	CAT-MOC	Mike	McIntyre	Hon. Mike McIntyre	4584328
+4584329	CAT-MOC	Ruben	Hinojosa	Hon. Ruben E. Hinojosa	4584329
+4584377	CAT-MOC	Maurice	Hinchey	Hon. Maurice Hinchey	4584377
+4584414	CAT-MOC	Darlene	Hooley	Hon. Darlene Hooley	4584414
+4599631	CAT-MOC	Norm	Dicks	Hon. Norm Dicks	4599631
+4610054	CAT-MOC	Louise	Slaughter	Hon. Louise Slaughter	4610054
+4610055	CAT-MOC	Chaka	Fattah	Hon. Chaka Fattah	4610055
+4610056	CAT-MOC	Luis	Gutierrez	Hon. Luis Gutierrez	4610056
+4610057	CAT-MOC	Sander	Levin	Hon. Sander Levin	4610057
+4282861	CAT-MOC	Fortney 'Pete'	Stark	Hon. Fortney 'Pete' Stark	4282861
+4610061	CAT-MOC	Collin	Peterson	Hon. Collin Peterson	4610061
+4610062	CAT-MOC	Richard	Neal	Hon. Richard Neal	4610062
+4610063	CAT-MOC	Allen	Boyd	Hon. Allen Boyd	4610063
+4610065	CAT-MOC	Marcy	Kaptur	Hon. Marcy Kaptur	4610065
+4610066	CAT-MOC	Eliot	Engel	Hon. Eliot Engel	4610066
+4610067	CAT-MOC	Frank	Pallone	Hon. Frank Pallone	4610067
+4610068	CAT-MOC	Bobby	Rush	Hon. Bobby Rush	4610068
+4610069	CAT-MOC	Gary	Ackerman	Hon. Gary Ackerman	4610069
+4610071	CAT-MOC	Melissa	Bean	Hon. Melissa Bean	4610071
+4610072	CAT-MOC	Julia	Carson	Hon. Julia Carson	4610072
+4610073	CAT-MOC	Lacy	Clay	Hon. Lacy Clay	4610073
+4610074	CAT-MOC	Emanuel	Cleaver	Hon. Emanuel Cleaver	4610074
+4610075	CAT-MOC	Arhtur	Davis	Hon. Artur Davis	4610075
+4610076	CAT-MOC	Al	Green	Hon. Al Green	4610076
+4610077	CAT-MOC	Brad	Miller	Hon. Brad Miller	4610077
+4610078	CAT-MOC	Dennis	Moore	Hon. Dennis Moore	4610078
+4610082	CAT-MOC	Leonard	Boswell	Hon. Leonard Boswell	4610082
+4610083	CAT-MOC	Donna	Christian-Christense	Hon. Donna Christian-Christensen	4610083
+4610084	CAT-MOC	Jerry	Costello	Hon. Jerry Costello	4610084
+4610086	CAT-MOC	Eni	Faleomavaega	Hon. Eni Faleomavaega	4610086
+4610087	CAT-MOC	Dennis	Kucinich	Hon. Dennis Kucinich	4610087
+4610088	CAT-MOC	Grace	Napolitano	Hon. Grace Napolitano	4610088
+4610089	CAT-MOC	Solomon	Ortiz	Hon. Solomon Ortiz	4610089
+4610091	CAT-MOC	Silvestre	Reyes	Hon. Silvestre Reyes	4610091
+4610092	CAT-MOC	Gene	Taylor	Hon. Gene Taylor	4610092
+4610093	CAT-MOC	Loretta	Sanchez	Hon. Loretta Sanchez	4610093
+4610094	CAT-MOC	Bobby	Scott	Hon. Bobby Scott	4610094
+4610095	CAT-MOC	Madeleine	Bordallo	Hon. Madeleine Bordallo	4610095
+4610096	CAT-MOC	Dan	Boren	Hon. Dan Boren	4610096
+4610097	CAT-MOC	Robert	Brady	Hon. Robert Brady	4610097
+4610098	CAT-MOC	GK	Butterfield	Hon. GK Butterfield	4610098
+4610099	CAT-MOC	Russ	Carnahan	Hon. Russ Carnahan	4610099
+4610101	CAT-MOC	Jim	Costa	Hon. Jim Costa	4610101
+4610102	CAT-MOC	Henry	Cuellar	Hon. Henry Cuellar	4610102
+4610103	CAT-MOC	Lincoln	Davis	Hon. Lincoln Davis	4610103
+4610104	CAT-MOC	Raul	Grijalva	Hon. Raul Grijalva	4610104
+4610105	CAT-MOC	Stephanie	Herseth	Hon. Stephanie Herseth	4610105
+4610106	CAT-MOC	Brian	Higgins	Hon. Brian Higgins	4610106
+4610107	CAT-MOC	Tim	Holden	Hon. Tim Holden	4610107
+4610108	CAT-MOC	Dan	Lipinski	Hon. Dan Lipinski	4610108
+4610109	CAT-MOC	Jim	Marshall	Hon. Jim Marshall	4610109
+4610112	CAT-MOC	Allyson	Schwartz	Hon. Allyson Schwartz	4610112
+4610113	CAT-MOC	Anthony	Weiner	Hon. Anthony Weiner	4610113
+4839996	CAT-MOC	Michael	Arcuri	Michael Arcuri	4839996
+4493454	CAT-MOC	Jason	Altmire	Jason Altmire	4493454
+4840278	CAT-MOC	Nancy	Boyda	Nancy Boyda	4840278
+4041777	CAT-MOC	Bruce	Braley	Bruce L. Braley	4041777
+4840282	CAT-MOC	Chris	Carney	Chris Carney	4840282
+4610489	CAT-MOC	Katherine	Castor	Katherine A. Castor	4610489
+4840287	CAT-MOC	Yvette	Clarke	Yvette Clarke	4840287
+4840288	CAT-MOC	Steve	Cohen	Hon. Steve Cohen	4840288
+4840289	CAT-MOC	Joe	Courtney	Hon. Joe Courtney	4840289
+4840290	CAT-MOC	Keith	Ellison	Hon. Keith Ellison	4840290
+4840291	CAT-MOC	Gabrielle	Giffords	Hon. Gabrielle Giffords	4840291
+4840292	CAT-MOC	Joe	Donnelly	Hon. Joe Donnelly	4840292
+4840293	CAT-MOC	Brad	Ellsworth	Hon. Brad Ellsworth	4840293
+4840294	CAT-MOC	Kirsten	Gillibrand	Hon. Kirsten Gillibrand	4840294
+4840295	CAT-MOC	Phil	Hare	Hon. Phil Hare	4840295
+4278017	CAT-MOC	Baron	Hill	Hon. Baron Hill	4278017
+4840296	CAT-MOC	Paul	Hodes	Hon. Paul Hodes	4840296
+4840297	CAT-MOC	Steve	Kagen	Hon. Steve Kagen	4840297
+4281193	CAT-MOC	Nick	Lampson	Hon. Nick Lampson	4281193
+4840298	CAT-MOC	Hirono	Mazie	Hon. Hirono Mazie	4840298
+4840299	CAT-MOC	Hank	Johnson	Hon. Hank Johnson	4840299
+4840300	CAT-MOC	Ron	Klein	Hon. Ron Klein	4840300
+4840301	CAT-MOC	David	Loebsack	Hon. David Loebsack	4840301
+4840302	CAT-MOC	Tim	Mahoney	Hon. Tim Mahoney	4840302
+3988863	CAT-MOC	Harry	Mitchell	Harry Mitchell	3988863
+4840303	CAT-MOC	Patrick	Murphy	Hon. Patrick Murphy	4840303
+4840304	CAT-MOC	John	Sarbanes	Hon. John Sarbanes	4840304
+4840305	CAT-MOC	Jerry	McNerney	Hon. Jerry McNerney	4840305
+4840306	CAT-MOC	Chris	Murphy	Hon. Chris Murphy	4840306
+4283608	CAT-MOC	Edward	Perlmutter	Edward Perlmutter	4283608
+4840307	CAT-MOC	Joe	Sestak	Hon. Joe Sestak	4840307
+4840308	CAT-MOC	Carol	Shea-Porter	Hon. Carol Shea-Porter	4840308
+4840309	CAT-MOC	Zachary	Space	Hon. Zachary Space	4840309
+4840310	CAT-MOC	Tim	Walz	Tim Walz	4840310
+4840311	CAT-MOC	Charlie	Wilson	Hon. Charlie Wilson	4840311
+4840312	CAT-MOC	Heath	Shuler	Hon. Heath Shuler	4840312
+4840313	CAT-MOC	Betty	Sutton	Hon. Betty Sutton	4840313
+4840314	CAT-MOC	Peter	Welch	Hon. Peter Welch	4840314
+4840315	CAT-MOC	John	Yarmuth	Hon. John Yarmuth	4840315
+4118538	CAT-MOC	Brian	Baird	Hon. Brian Baird	4118538
+4840316	CAT-MOC	James	Clyburn	Hon. James Clyburn	4840316
+4840317	CAT-MOC	Robert	Cramer	Hon. Robert Cramer	4840317
+4280225	CAT-MOC	Elijah	Cummings	Hon. Elijah Cummings	4280225
+4840318	CAT-MOC	John	Hall	Hon. John Hall	4840318
+4279326	CAT-MOC	Jay	Inslee	Hon. Jay Inslee	4279326
+4280697	CAT-MOC	Jesse	Jackson	Hon. Jesse Jackson, Jr.	4280697
+4280729	CAT-MOC	Eddie Bernice	Johnson	Hon. Eddie Bernice Johnson	4280729
+4313037	CAT-MOC	Stephanie	Tubbs Jones	Hon. Stephanie Tubbs Jones	4313037
+4780019	CAT-MOC	Gwendolynne	Moore	Gwendolynne Moore	4780019
+4840711	CAT-MOC	James	Moran	Hon. James Moran	4840711
+4282476	CAT-MOC	Jerrold	Nadler	Hon. Jerrold Nadler	4282476
+4283688	CAT-MOC	Ciro	Rodriguez	Hon. Ciro Rodriguez	4283688
+3926585	CAT-MOC	Steven	Rothman	Steven Rothman	3926585
+4840712	CAT-MOC	Albio	Sires	Hon. Albio Sires	4840712
+4406879	CAT-MOC	Debbie	Wasserman Schultz	Debbie Wasserman Schultz	4406879

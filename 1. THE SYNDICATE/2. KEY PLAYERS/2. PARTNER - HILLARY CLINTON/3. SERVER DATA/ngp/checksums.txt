@@ -1,0 +1,98 @@
+Public Sub CheckSums()
+
+    MsgBox "Begin"
+    
+    Set cnt = CreateObject("ADODB.Connection")
+    Set rst = CreateObject("ADODB.RecordSet")
+    
+    connstring = "Driver={SQL Native Client};Server=d3cngpdb;Database=NGPClientDCCC;Trusted_Connection=yes;"
+    
+    
+    
+    cnt.Open connstring
+    
+    xlasnumrows = ActiveSheet.UsedRange.Rows.Count
+    xlasnumcols = ActiveSheet.UsedRange.Columns.Count
+    
+    RowIndex = 2
+    
+    ActiveSheet.Cells(1, xlasnumcols + 1).Value = "04Cycle"
+    
+    While RowIndex < xlasnumrows + 1
+    
+        
+        sqltext = "SELECT SUM(mAmount) FROM Contrib WHERE (iContactID = " & Trim(ActiveSheet.Rows(RowIndex).Cells(1, 1).Value) & ") AND (iDeleted = 0) AND (NOT(sReportCode1 = 'CM')) AND  (dtDate < CONVERT(DATETIME, '2005-01-01 00:00:00', 102)) AND  (dtDate > CONVERT(DATETIME, '2003-01-01 00:00:00', 102))"
+        
+        'MsgBox (sqltext)
+    
+        rst.Open sqltext, cnt
+    
+        If rst.BOF And rst.EOF Then
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 1).Value = 0
+        Else
+            rst.MoveFirst
+        
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 1).Value = rst.Fields(0).Value
+        End If
+        rst.Close
+        
+        RowIndex = RowIndex + 1
+        
+    
+    Wend
+    
+    RowIndex = 2
+    ActiveSheet.Cells(1, xlasnumcols + 2).Value = "06Cycle"
+    While RowIndex < xlasnumrows + 1
+    
+        
+        sqltext = "SELECT SUM(mAmount) FROM Contrib WHERE (iContactID = " & Trim(ActiveSheet.Rows(RowIndex).Cells(1, 1).Value) & ") AND (iDeleted = 0) AND (NOT(sReportCode1 = 'CM')) AND  (dtDate < CONVERT(DATETIME, '2007-01-01 00:00:00', 102)) AND  (dtDate > CONVERT(DATETIME, '2005-01-01 00:00:00', 102))"
+        
+        'MsgBox (sqltext)
+    
+        rst.Open sqltext, cnt
+    
+        If rst.BOF And rst.EOF Then
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 2).Value = 0
+        Else
+            rst.MoveFirst
+        
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 2).Value = rst.Fields(0).Value
+        End If
+        rst.Close
+        
+        RowIndex = RowIndex + 1
+        
+    
+    Wend
+    
+    RowIndex = 2
+    ActiveSheet.Cells(1, xlasnumcols + 3).Value = "08Cycle"
+    While RowIndex < xlasnumrows + 1
+    
+        
+        sqltext = "SELECT SUM(mAmount) FROM Contrib WHERE (iContactID = " & Trim(ActiveSheet.Rows(RowIndex).Cells(1, 1).Value) & ") AND (iDeleted = 0) AND (NOT(sReportCode1 = 'CM')) AND  (dtDate > CONVERT(DATETIME, '2007-01-01 00:00:00', 102))"
+        
+        'MsgBox (sqltext)
+    
+        rst.Open sqltext, cnt
+    
+        If rst.BOF And rst.EOF Then
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 3).Value = 0
+        Else
+            rst.MoveFirst
+        
+            ActiveSheet.Rows(RowIndex).Cells(1, xlasnumcols + 3).Value = rst.Fields(0).Value
+        End If
+        rst.Close
+        
+        RowIndex = RowIndex + 1
+        
+    
+    Wend
+    
+    cnt.Close
+
+    MsgBox ("End")
+
+End Sub

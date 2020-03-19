@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LargeContributionReport xsi:schemaLocation="http://www.sbe.virginia.gov ContributionReport.xsd" xmlns="http://www.sbe.virginia.gov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ReportHeader><CommitteeCode>PP-12-00537</CommitteeCode><CommitteeName>Virginia Democratic Party</CommitteeName><ReportYear>2015</ReportYear><Address><Line1>1710 E Franklin St</Line1><Line2>Second Floor</Line2><Line3></Line3><City>Richmond</City><State>VA</State><ZipCode>23223-7025</ZipCode></Address><FilingDate>2015-10-15</FilingDate><StartDate>2015-12-31</StartDate><EndDate>2015-12-31</EndDate><SubmitterPhone>(718) 702-3067</SubmitterPhone><SubmitterEmail>tom@vademocrats.org</SubmitterEmail><FilingType>Large Contribution Report</FilingType><IsFinalReport>false</IsFinalReport><IsAmendment>false</IsAmendment><NoActivity>false</NoActivity></ReportHeader>
+<ScheduleA>
+<LiA><Contributor IsIndividual="false"><LastName>Virginia Senate Democratic Caucus</LastName><Address><Line1>1710 E Franklin St</Line1><Line2>Fl 2 </Line2><City>Richmond</City><State>VA</State><ZipCode>23223-7025</ZipCode></Address><NameOfEmployer></NameOfEmployer><OccupationOrTypeOfBusiness>Senate Caucus Committee</OccupationOrTypeOfBusiness><PrimaryCityAndStateOfEmploymentOrBusiness>Richmond VA</PrimaryCityAndStateOfEmploymentOrBusiness></Contributor><TransactionDate>2015-12-31</TransactionDate><Amount>25000.00</Amount><TotalToDate>1317261.88</TotalToDate></LiA>
+</ScheduleA>
+<ScheduleB>
+</ScheduleB>
+<ScheduleE>
+</ScheduleE>
+</LargeContributionReport>
